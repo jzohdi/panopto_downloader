@@ -3,11 +3,11 @@ from typing import List
 from xml.etree import ElementTree
 
 
-rss_url = "https://umd.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=279b0c4c-3caa-43a6-b752-ad8b0149481d&type=mp4"
+rss_url = "https://<school>.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=<course_id>&type=mp4"
 
 # used to write to xml file, so this
 # should be a file_name friendly string 
-class_name = "cmsc424"
+class_name = "cmsc<course_num>"
 class Video:
     def __init__(self, title: str, url: str):
         self.title = title
