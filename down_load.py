@@ -5,6 +5,9 @@ from xml.etree import ElementTree
 
 rss_url = "https://umd.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=279b0c4c-3caa-43a6-b752-ad8b0149481d&type=mp4"
 
+# used to write to xml file, so this
+# should be a file_name friendly string 
+class_name = "cmsc424"
 class Video:
     def __init__(self, title: str, url: str):
         self.title = title
@@ -66,7 +69,7 @@ def download_rss_feed(file_name: str, rss_url: str) -> str:
     return file_name
 
 def main():
-    file_name = download_rss_feed("cmsc424.xml", rss_url)
+    file_name = download_rss_feed(f"{class_name}.xml", rss_url)
     videos: List[Video] = parse_rss_xml(file_name)
     for video in videos:
         downloadfile(video)
