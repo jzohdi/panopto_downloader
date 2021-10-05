@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="https://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <title>CMSC424-0101: Database Design-Fall 2021 amol</title>
+    <link>https://umd.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=279b0c4c-3caa-43a6-b752-ad8b0149481d</link>
+    <itunes:subtitle>Podcast feed for Panopto folder "CMSC424-0101: Database Design-Fall 2021 amol"</itunes:subtitle>
+    <image>
+      <url>https://umd.hosted.panopto.com/Panopto/Services/FrameGrabber.svc/FrameRedirect?objectId=6fee4b5a-5de6-4e70-b9b2-ad950106fdda&amp;mode=Delivery&amp;random=0.789889775118739&amp;usePng=False</url>
+      <title>CMSC424-0101: Database Design-Fall 2021 amol</title>
+      <link>https://umd.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=279b0c4c-3caa-43a6-b752-ad8b0149481d</link>
+    </image>
+    <itunes:image href="https://umd.hosted.panopto.com/Panopto/Services/FrameGrabber.svc/FrameRedirect?objectId=6fee4b5a-5de6-4e70-b9b2-ad950106fdda&amp;mode=Delivery&amp;random=0.789889775118739&amp;usePng=False" />
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education" />
+    </itunes:category>
+    <item>
+      <title>Class Recording August 30, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/6fee4b5a-5de6-4e70-b9b2-ad950106fdda.mp4?mediaTargetType=videoPodcast" length="137030588" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/6fee4b5a-5de6-4e70-b9b2-ad950106fdda.mp4</guid>
+      <pubDate>Tue, 31 Aug 2021 15:57:31 GMT</pubDate>
+      <itunes:duration>4064</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 1, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/c03a7e8f-d3fb-42f5-831e-ad960168e52a.mp4?mediaTargetType=videoPodcast" length="134665312" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/c03a7e8f-d3fb-42f5-831e-ad960168e52a.mp4</guid>
+      <pubDate>Wed, 01 Sep 2021 21:53:58 GMT</pubDate>
+      <itunes:duration>4310</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 8, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/58f71723-9d99-4a12-866b-ad9e01364c3e.mp4?mediaTargetType=videoPodcast" length="195792829" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/58f71723-9d99-4a12-866b-ad9e01364c3e.mp4</guid>
+      <pubDate>Thu, 09 Sep 2021 18:49:45 GMT</pubDate>
+      <itunes:duration>4479</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 13, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/0d8a2664-33d7-4ca8-8738-ada4015be751.mp4?mediaTargetType=videoPodcast" length="145375597" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/0d8a2664-33d7-4ca8-8738-ada4015be751.mp4</guid>
+      <pubDate>Wed, 15 Sep 2021 21:06:40 GMT</pubDate>
+      <itunes:duration>4244</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 15, 2021 - PART 2</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/947106ba-0207-4413-949f-ada4015c5836.mp4?mediaTargetType=videoPodcast" length="88233376" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/947106ba-0207-4413-949f-ada4015c5836.mp4</guid>
+      <pubDate>Wed, 15 Sep 2021 21:08:17 GMT</pubDate>
+      <itunes:duration>2940</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 15, 2021 - PART 1</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/19766335-907b-4342-83fb-ada4015c5882.mp4?mediaTargetType=videoPodcast" length="34093601" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/19766335-907b-4342-83fb-ada4015c5882.mp4</guid>
+      <pubDate>Wed, 15 Sep 2021 21:08:17 GMT</pubDate>
+      <itunes:duration>1226</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 20, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/f932d713-aa88-46e0-bf24-ada9014f4177.mp4?mediaTargetType=videoPodcast" length="141423581" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/f932d713-aa88-46e0-bf24-ada9014f4177.mp4</guid>
+      <pubDate>Mon, 20 Sep 2021 20:20:37 GMT</pubDate>
+      <itunes:duration>4403</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 22, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/9fb5999a-eb14-4462-bb24-adab0151f5ec.mp4?mediaTargetType=videoPodcast" length="125768923" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/9fb5999a-eb14-4462-bb24-adab0151f5ec.mp4</guid>
+      <pubDate>Wed, 22 Sep 2021 20:30:28 GMT</pubDate>
+      <itunes:duration>4400</itunes:duration>
+    </item>
+    <item>
+      <title>Assignment 1 Answers</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/55eaa554-d2fa-46cf-87ce-adac01155600.mp4?mediaTargetType=videoPodcast" length="37042952" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/55eaa554-d2fa-46cf-87ce-adac01155600.mp4</guid>
+      <pubDate>Thu, 23 Sep 2021 16:49:45 GMT</pubDate>
+      <itunes:duration>735</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 27, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/07b240e1-5a8c-42b8-ac69-adb1012a20bc.mp4?mediaTargetType=videoPodcast" length="131993733" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/07b240e1-5a8c-42b8-ac69-adb1012a20bc.mp4</guid>
+      <pubDate>Tue, 28 Sep 2021 18:05:27 GMT</pubDate>
+      <itunes:duration>4325</itunes:duration>
+    </item>
+    <item>
+      <title>Class Recording September 29, 2021</title>
+      <itunes:author>UMD-Canvas\amol</itunes:author>
+      <enclosure url="https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/02c99e99-43f3-4eb9-9578-adb4000eea90.mp4?mediaTargetType=videoPodcast" length="170909498" type="video/mp4" />
+      <guid>https://umd.hosted.panopto.com/Panopto/Podcast/Syndication/02c99e99-43f3-4eb9-9578-adb4000eea90.mp4</guid>
+      <pubDate>Fri, 01 Oct 2021 00:54:18 GMT</pubDate>
+      <itunes:duration>4387</itunes:duration>
+    </item>
+  </channel>
+</rss>
